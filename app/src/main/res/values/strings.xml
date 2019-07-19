@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="text_welcome">Welcome !</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">"Log in"</string>
+    <string name="text_version">v1.0.0</string>
+    <string name="error_log_in">Not a valid username or password</string>
+    <string name="text_user_purchases">%s\'s purchases :</string>
+    <string name="alert_positive_ok">"OK"</string>
+</resources>
